@@ -7,7 +7,7 @@
 - Location: Vienna, Austria
 - LinkedIn: [linkedin.com/in/vegim-iseini](https://linkedin.com/in/vegim-iseini)
 - Xing: [xing.com/profile/Vegim_Iseini2](https://www.xing.com/profile/Vegim_Iseini2)
-- GitHub: [github.com/vegim](https://github.com/vegimis)
+- GitHub: [github.com/vegimis](https://github.com/vegimis)
 
 ## Professional Summary
 Advanced Java Engineer with 5.6+ years of experience in enterprise backend systems, distributed architectures, SQL optimization, and practical web and automation development. I build maintainable, high-impact systems for production environments and real business workflows.
